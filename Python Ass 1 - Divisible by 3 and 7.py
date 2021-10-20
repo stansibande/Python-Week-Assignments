@@ -1,3 +1,5 @@
+#Well done Stan!
+
 #Assignments
 #1 program to check whether a number is divisible by both 3 and 7, display appropriate message of choice
 
